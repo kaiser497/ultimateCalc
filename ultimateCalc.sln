@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ultimateCalc", "ultimateCalc\ultimateCalc.vcxproj", "{4405C408-F5D3-4D81-A204-6026A8DD29CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Debug|x64.ActiveCfg = Debug|x64
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Debug|x64.Build.0 = Debug|x64
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Debug|x86.Build.0 = Debug|Win32
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Release|x64.ActiveCfg = Release|x64
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Release|x64.Build.0 = Release|x64
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Release|x86.ActiveCfg = Release|Win32
+		{4405C408-F5D3-4D81-A204-6026A8DD29CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FD490F-31B3-4A06-B72E-9700AF67FB02}
+	EndGlobalSection
+EndGlobal
